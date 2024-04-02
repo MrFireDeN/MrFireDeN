@@ -1,6 +1,6 @@
 # Свиридов Денис
 
-⚡ Привет, меня зовут Свиридов Денис. Я C++/ разработчик, живу в России (город Волгоград). Мною были разработаны проекты:
+⚡ Привет, меня зовут Свиридов Денис. Я C++/C#/Python разработчик, живу в России (город Волгоград). Мною были разработаны проекты:
  <ul>
   <li><a href='https://github.com/MrFireDeN/Bank-Depositors'>Клиент-серверное графическое приложение на Qt</a></li>
   <li><a href='https://github.com/MrFireDeN/GameRPG'>RPG Игра на сайте</a></li>
@@ -9,6 +9,22 @@
  и многие другие, полный список можно посмотреть <a href='https://github.com/MrFireDeN?tab=repositories'>тут</a>.
  </ul>
  <br>
+
+### 🎹 Языки и технологии
+![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![](https://img.shields.io/badge/Qt-239120?style=for-the-badge&logo=qt5&logoColor=white)
+![](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<br><br>
+
+### 📈 Статистика GitHub
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFireDeN&theme=solarized_dark)
+
+![](https://komarev.com/ghpvc/?username=MrFireDeN&color=dc143c)
+<br>
  
 ### 🗣 Я в соц сетях
 
