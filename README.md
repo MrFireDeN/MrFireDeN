@@ -46,29 +46,15 @@
 А также многие другие проекты можно посмотреть [тут](https://github.com/MrFireDeN?tab=repositories)😽.
 
 ### Статистика GitHub📈
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFireDeN&theme=solarized_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrFireDeN&theme=dracula)](https://github.com/MrFireDeN)
 
-![](https://komarev.com/ghpvc/?username=MrFireDeN&color=dc143c)
-<br>
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=MrFireDeN&hide=jupyter%20notebook,qmake,css,html&theme=dracula&show_icons=true)](https://github.com/MrFireDeN)
+
+[![](https://komarev.com/ghpvc/?username=MrFireDeN&color=dc143c)](https://github.com/MrFireDeN)
  
 ## Связь👀
 
 Если у вас есть вопросы, предложения или вы просто хотите пообщаться, не стесняйтесь связаться со мной😊:
 
-<a href='https://vk.com/mr.fireden'>![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)</a>
-<a href='https://t.me/mrfireden'>![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-<!--
-**MrFireDeN/MrFireDeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mr.fireden)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrfireden)
